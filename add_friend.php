@@ -1,0 +1,1 @@
+you think i can create add_friend.php? it's so hard to make
