@@ -8,8 +8,8 @@ echo "<?xml version='1.0' encoding='UTF-8'?>";
 // Create the RSS feed structure
 echo "<rss version='2.0'>";
 echo "<channel>";
-echo "<title>https://distube.ct8.pl/rss.php</title>";
-echo "<link>https://distube.ct8.pl/rss.php</link>"; // Fixed the link here
+echo "<title>put your domain idk</title>";
+echo "<link>put your domain idk</link>"; // Fixed the link here
 echo "<description>DisTube RSS</description>";
 
 // Sample items - replace with your own logic to fetch items from your website
