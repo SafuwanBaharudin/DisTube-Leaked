@@ -8,10 +8,10 @@ if (isset($_GET['users'])) {
     $users = $_GET['users']; // Assuming users is passed through GET parameter, make sure to validate and sanitize this input
 
     // Database connection parameters
-    $servername = "mysql.ct8.pl";
-    $username = "m42766_fuck";
-    $password = "Ad150169@@";
-    $dbname = "m42766_DisTube";
+    $servername = "webhost";
+    $username = "username";
+    $password = "password";
+    $dbname = "DisTube";
 
     // Create connection
     $conn = new mysqli($servername, $username, $password, $dbname);
