@@ -29,10 +29,10 @@
             }
 
             // Connect to your MySQL database
-            $host = 'mysql.ct8.pl'; // Change this to your database host
-            $username = 'm42766_fuck'; // Change this to your database username
-            $password = 'Ad150169@@'; // Change this to your database password
-            $database = 'm42766_DisTube'; // Change this to your database name
+            $host = 'webhost'; // Change this to your database host
+            $username = 'username'; // Change this to your database username
+            $password = 'password'; // Change this to your database password
+            $database = 'database'; // Change this to your database name
 
             $conn = new mysqli($host, $username, $password, $database);
 
